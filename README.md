@@ -4,7 +4,7 @@
 
 Estoy cursando el **Certificado de Profesionalidad IFCT0209 — Sistemas Microinformáticos**. Instalo, configuro y mantengo sistemas microinformáticos y doy soporte al usuario en el uso de aplicaciones — con base diaria en **Windows y Linux (Arch)** y laboratorio propio documentado.
 
-**Disponibilidad:** Prácticas del certificado / Contrato junior — Remoto o presencial (España)
+**Disponibilidad:** Prácticas 150h en empresa (CEINA Igualada) / Contrato junior — Igualada / Anoia / Remoto
 **Contacto:** GitHub [@iapetus12](https://github.com/iapetus12) · Email: iapetus07@gmail.com · LinkedIn: [alejandro-ferrer-6894063b5](https://www.linkedin.com/in/alejandro-ferrer-6894063b5)
 
 🌐 **Portfolio web:** https://iapetus12.github.io/portfolio/ *(se activa al hacer `git push`)*
@@ -25,13 +25,12 @@ Estoy cursando el **Certificado de Profesionalidad IFCT0209 — Sistemas Microin
 
 ## Formación
 
-**Certificado de Profesionalidad IFCT0209 — Sistemas Microinformáticos** — *En curso* (590h)
-- **MF0219_2:** Instalación y configuración de sistemas operativos (Windows y Linux)
-- **MF0220_2:** Implantación de los elementos de la red local
-- **MF0221_2:** Instalación y configuración de aplicaciones
-- **MF0222_2:** Aplicaciones microinformáticas (ofimática, correo, gestión)
+**Certificado de Profesionalidad IFCT0209 — Sistemas Microinformáticos (CEINA Igualada)** — *En curso*
+- **Instalación y configuración de sistemas operativos** `MF0219_2` — Windows y Linux, drivers, usuarios y permisos
+- **Redes locales** `MF0220_2` — cableado, TCP/IP, DHCP, DNS, WiFi y recursos compartidos
+- **Aplicaciones microinformáticas** `MF0222_2` — ofimática, correo y software de usuario
 
-> *Tip para reclutadores:* Busco **prácticas no laborales del certificado (80h)** o primer contrato como técnico microinformático / soporte.
+> *Tip para reclutadores:* **150h de prácticas reales en empresa (CEINA Igualada)** — disponible para prácticas o primer contrato como técnico microinformático / soporte.
 
 ---
 

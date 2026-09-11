@@ -5,11 +5,11 @@ Email: iapetus07@gmail.com | Tel: +34 6XX XXX XXX | GitHub: github.com/iapetus12
 Alumno del Certificado de Profesionalidad IFCT0209 — Sistemas Microinformáticos. Instalo, configuro y mantengo sistemas microinformáticos y doy soporte al usuario. Acostumbrado a documentar y diagnosticar en laboratorio real. Busco prácticas no laborales (80h) o primer empleo como técnico microinformático / helpdesk.
 
 ## Formación
-**IFCT0209 — Sistemas Microinformáticos** — En curso (590h)
-- MF0219_2 Instalación y configuración de SO (Windows/Linux)
-- MF0220_2 Implantación de elementos de red local
-- MF0221_2 Instalación y configuración de aplicaciones
-- MF0222_2 Aplicaciones microinformáticas
+**IFCT0209 — Sistemas Microinformáticos (CEINA Igualada)** — En curso
+- Instalación y configuración de SO `MF0219_2` — Windows/Linux
+- Redes locales `MF0220_2` — cableado, TCP/IP, DHCP, DNS, WiFi
+- Aplicaciones microinformáticas `MF0222_2` — ofimática, correo, software usuario
+- **150h prácticas reales en empresa (CEINA)**
 
 ## Competencias
 - **SO:** Windows 10/11, Arch/Debian/Ubuntu, usuarios, permisos, drivers
@@ -27,4 +27,4 @@ Alumno del Certificado de Profesionalidad IFCT0209 — Sistemas Microinformátic
 Español (nativo), Inglés (B1-B2 técnico)
 
 ## Disponibilidad
-Prácticas 80h / Junior — Remoto / Presencial — Incorporación inmediata
+Prácticas 150h en empresa (CEINA Igualada) / Junior — Igualada, Anoia, remoto — Incorporación inmediata
