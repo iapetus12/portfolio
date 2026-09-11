@@ -1,10 +1,7 @@
-# Currículum — i4petvs
-# Edita este archivo y exporta a PDF como docs/cv.pdf
-
-Nombre: i4petvs (cambia por tu nombre real)
-Título: Técnico en Sistemas Microinformáticos y Redes (en formación)
+# Currículum — Alejandro Ferrer
+Técnico en Sistemas Microinformáticos y Redes (en formación)
 Ubicación: España | Email: iapetus07@gmail.com | Tel: +34 6XX XXX XXX
-GitHub: github.com/iapetus12 | LinkedIn: linkedin.com/in/tu-perfil | Portfolio: iapetus12.github.io/portfolio
+GitHub: github.com/iapetus12 | LinkedIn: linkedin.com/in/alejandro-ferrer-6894063b5 | Portfolio: iapetus12.github.io/portfolio
 
 ## Perfil
 Estudiante de SMR con base sólida en Linux (Arch), redes y soporte microinformático. Acostumbrado a documentar, diagnosticar y resolver incidencias en laboratorio real (DockerLabs/HTB). Busco prácticas FCT o primer empleo como técnico de sistemas / helpdesk.
@@ -27,7 +24,7 @@ Estudiante de SMR con base sólida en Linux (Arch), redes y soporte microinform�
 - **Survival Hub** — Servidor offline Raspberry Pi
 
 ## Idiomas
-- Español (nativo), Inglés (B1-B2 técnico, en mejora)
+Español (nativo), Inglés (B1-B2 técnico, en mejora)
 
 ## Disponibilidad
 Prácticas FCT / Junior — Remoto / Presencial — Incorporación inmediata
