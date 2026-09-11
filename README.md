@@ -1,10 +1,10 @@
-# i4petvs — Técnico en Sistemas Microinformáticos y Redes
+# i4petvs — Técnico IFCT0209 — Sistemas Microinformáticos
 
-> **Estudiante de SMR • Arch Linux • Soporte y Redes • En busca de prácticas / primer empleo**
+> **Certificado IFCT0209 • Sistemas Microinformáticos • En busca de prácticas / primer empleo**
 
-Soy estudiante de **Sistemas Microinformáticos y Redes**, con base sólida en **Linux (Arch + BlackArch)**, montaje y mantenimiento de equipos, y redes. Aprendo rompiendo y documentando en laboratorio propio — cada máquina que resuelvo acaba en un writeup público.
+Estoy cursando el **Certificado de Profesionalidad IFCT0209 — Sistemas Microinformáticos**. Instalo, configuro y mantengo sistemas microinformáticos y doy soporte al usuario en el uso de aplicaciones — con base diaria en **Windows y Linux (Arch)** y laboratorio propio documentado.
 
-**Disponibilidad:** Prácticas FCT / Contrato junior — Remoto o presencial (España)
+**Disponibilidad:** Prácticas del certificado / Contrato junior — Remoto o presencial (España)
 **Contacto:** GitHub [@iapetus12](https://github.com/iapetus12) · Email: iapetus07@gmail.com · LinkedIn: [alejandro-ferrer-6894063b5](https://www.linkedin.com/in/alejandro-ferrer-6894063b5)
 
 🌐 **Portfolio web:** https://iapetus12.github.io/portfolio/ *(se activa al hacer `git push`)*
@@ -12,26 +12,26 @@ Soy estudiante de **Sistemas Microinformáticos y Redes**, con base sólida en *
 
 ---
 
-## Qué puedo hacer por tu empresa
+## Qué puedo hacer por tu empresa (competencias IFCT0209)
 
-- **Montaje y mantenimiento** de equipos, clonación, diagnóstico hardware/software
-- **Sistemas operativos:** Windows 10/11, Linux (Arch, Debian/Ubuntu), dual-boot, usuarios y permisos
-- **Redes:** TCP/IP, DHCP, DNS, direccionamiento, cableado, WiFi, diagnóstico con `ping`/`traceroute`/`nmap`
-- **Virtualización:** VirtualBox / VMware, snapshots, laboratorios aislados
-- **Soporte HelpDesk:** atención al usuario, ticketing, documentación clara, seguimiento de incidencias
-- **Backups y seguridad básica:** copias, permisos, firewall básico, buenas prácticas
+- **Instalación y configuración de SO:** Windows 10/11, Linux (Arch/Debian/Ubuntu), dual-boot, usuarios, permisos y drivers
+- **Hardware y mantenimiento:** montaje, diagnóstico, sustitución de componentes, periféricos e impresoras
+- **Redes locales:** cableado, TCP/IP, DHCP, DNS, WiFi, compartición de recursos y diagnóstico de conectividad
+- **Aplicaciones:** instalación y configuración de ofimática, correo, antivirus y utilidades
+- **Soporte al usuario:** atención helpdesk, resolución de incidencias, formación básica y documentación
+- **Backups y seguridad:** copias de seguridad, restauración, buenas prácticas y protección del puesto
 
 ---
 
 ## Formación
 
-**CFGM Sistemas Microinformáticos y Redes (SMR)** — *En curso*
-- Montaje y mantenimiento de equipos
-- Sistemas operativos monopuesto y en red
-- Redes locales
-- Aplicaciones ofimáticas y web
+**Certificado de Profesionalidad IFCT0209 — Sistemas Microinformáticos** — *En curso* (590h)
+- **MF0219_2:** Instalación y configuración de sistemas operativos (Windows y Linux)
+- **MF0220_2:** Implantación de los elementos de la red local
+- **MF0221_2:** Instalación y configuración de aplicaciones
+- **MF0222_2:** Aplicaciones microinformáticas (ofimática, correo, gestión)
 
-> *Tip para reclutadores:* Estoy disponible para **FCT**. Si buscas a alguien que ya trabaja con Linux a diario y documenta lo que hace, soy tu perfil.
+> *Tip para reclutadores:* Busco **prácticas no laborales del certificado (80h)** o primer contrato como técnico microinformático / soporte.
 
 ---
 
@@ -46,17 +46,21 @@ Soy estudiante de **Sistemas Microinformáticos y Redes**, con base sólida en *
 
 ---
 
-## Proyectos y laboratorio
+## Proyectos y laboratorio (orientado a IFCT0209)
 
-No tengo años de experiencia laboral, pero sí **horas de laboratorio real** documentado:
+Demuestro lo que sé con práctica real documentada — no teoría:
 
-| Proyecto | Qué es | Link |
+| Proyecto | Competencia IFCT0209 que demuestra | Link |
 |---|---|---|
-| **DockerLabs** | 5 máquinas resueltas (AdminBypass, Hackcar, Hannah's Coffee, Obsesion, Trust) | [iapetus12/DockerLabs](https://github.com/iapetus12/DockerLabs) |
-| **HTB Writeups** | Nexus, Support, Cohort — metodología completa | [iapetus12/htb-writeups](https://github.com/iapetus12/htb-writeups) |
-| **Pentest Toolkit** | Scripts propios de red y web para auditoría en lab | [iapetus12/pentest-toolkit](https://github.com/iapetus12/pentest-toolkit) |
-| **Survival Hub** | Servidor offline para Raspberry Pi (mapas, wiki, vault) | [iapetus12/survival-hub](https://github.com/iapetus12/survival-hub) |
-| **Pentest Mindmap** | Mapa mental interactivo de pentesting | [iapetus12/pentest-mindmap-open](https://github.com/iapetus12/pentest-mindmap-open) |
+| **DockerLabs** | Instalación SO, redes, diagnóstico y documentación de incidencias | [iapetus12/DockerLabs](https://github.com/iapetus12/DockerLabs) |
+| **Survival Hub (Raspberry Pi)** | Montaje, configuración de sistema y red local offline | [iapetus12/survival-hub](https://github.com/iapetus12/survival-hub) |
+| **Pentest Toolkit** | Scripts de apoyo para diagnóstico de red en lab autorizado | [iapetus12/pentest-toolkit](https://github.com/iapetus12/pentest-toolkit) |
+
+<details><summary>Laboratorio complementario (ciberseguridad, secundario)</summary>
+
+- HTB Writeups (Nexus, Support, Cohort) y Pentest Mindmap — lo mantengo como formación extra, no como foco principal para IFCT0209.
+
+</details>
 
 > Cada writeup incluye metodología, comandos, evidencia y mitigación — como lo haría un informe real para cliente.
 

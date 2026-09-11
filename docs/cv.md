@@ -1,30 +1,30 @@
-# Currículum — Alejandro Ferrer
-Técnico en Sistemas Microinformáticos y Redes (en formación)
-Ubicación: España | Email: iapetus07@gmail.com | Tel: +34 6XX XXX XXX
-GitHub: github.com/iapetus12 | LinkedIn: linkedin.com/in/alejandro-ferrer-6894063b5 | Portfolio: iapetus12.github.io/portfolio
+# Alejandro Ferrer — Técnico IFCT0209 Sistemas Microinformáticos
+Email: iapetus07@gmail.com | Tel: +34 6XX XXX XXX | GitHub: github.com/iapetus12 | LinkedIn: linkedin.com/in/alejandro-ferrer-6894063b5 | Portfolio: iapetus12.github.io/portfolio
 
 ## Perfil
-Estudiante de SMR con base sólida en Linux (Arch), redes y soporte microinformático. Acostumbrado a documentar, diagnosticar y resolver incidencias en laboratorio real (DockerLabs/HTB). Busco prácticas FCT o primer empleo como técnico de sistemas / helpdesk.
+Alumno del Certificado de Profesionalidad IFCT0209 — Sistemas Microinformáticos. Instalo, configuro y mantengo sistemas microinformáticos y doy soporte al usuario. Acostumbrado a documentar y diagnosticar en laboratorio real. Busco prácticas no laborales (80h) o primer empleo como técnico microinformático / helpdesk.
 
 ## Formación
-**CFGM Sistemas Microinformáticos y Redes** — En curso
-- Montaje y mantenimiento de equipos, SO monopuesto y en red, redes locales
+**IFCT0209 — Sistemas Microinformáticos** — En curso (590h)
+- MF0219_2 Instalación y configuración de SO (Windows/Linux)
+- MF0220_2 Implantación de elementos de red local
+- MF0221_2 Instalación y configuración de aplicaciones
+- MF0222_2 Aplicaciones microinformáticas
 
-## Habilidades
-- **SO:** Windows 10/11, Arch/Debian/Ubuntu, Bash, gestión de usuarios/permisos
-- **Hardware:** Montaje, diagnóstico, periféricos, clonación
-- **Redes:** TCP/IP, DHCP, DNS, LAN/WiFi, Nmap, diagnóstico de conectividad
-- **Virtualización:** VirtualBox, VMware, Docker básico
-- **Soporte:** HelpDesk, ticketing, documentación, atención al usuario
+## Competencias
+- **SO:** Windows 10/11, Arch/Debian/Ubuntu, usuarios, permisos, drivers
+- **Hardware:** Montaje, diagnóstico, periféricos, impresoras, clonación
+- **Redes:** Cableado, TCP/IP, DHCP, DNS, WiFi, recursos compartidos
+- **Aplicaciones:** Ofimática, correo, antivirus, utilidades
+- **Soporte:** HelpDesk, ticketing, formación al usuario, documentación
 
-## Proyectos / Laboratorio
-- **DockerLabs (5 máquinas)** — Writeups públicos con metodología y mitigaciones
-- **HTB Writeups (Nexus, Support, Cohort)** — Informes completos
-- **Pentest Toolkit** — Scripts de red/web para auditoría en lab autorizado
-- **Survival Hub** — Servidor offline Raspberry Pi
+## Proyectos
+- DockerLabs (5 máquinas) — instalación SO, redes y diagnóstico documentado
+- Survival Hub (Raspberry Pi) — sistema y red local offline
+- Pentest Toolkit — scripts de diagnóstico de red en lab autorizado
 
 ## Idiomas
-Español (nativo), Inglés (B1-B2 técnico, en mejora)
+Español (nativo), Inglés (B1-B2 técnico)
 
 ## Disponibilidad
-Prácticas FCT / Junior — Remoto / Presencial — Incorporación inmediata
+Prácticas 80h / Junior — Remoto / Presencial — Incorporación inmediata
