@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>i4petvs — Técnico SMR | Sistemas, Redes y Soporte</title>
+<meta name="description" content="Técnico en Sistemas Microinformáticos y Redes. Estudiante SMR, Arch Linux, redes y soporte helpdesk. En busca de prácticas FCT / primer empleo.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f8fafc;--card:#ffffff;--text:#0f172a;--muted:#64748b;--line:#e2e8f0;--accent:#2563eb;--accent2:#0ea5e9}
+*{box-sizing:border-box}body{margin:0;font-family:'Inter',system-ui,sans-serif;background:var(--bg);color:var(--text);line-height:1.6}
+a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
+.wrap{max-width:980px;margin:0 auto;padding:0 20px}
+header{position:sticky;top:0;background:rgba(255,255,255,.9);backdrop-filter:blur(8px);border-bottom:1px solid var(--line);z-index:10}
+nav{display:flex;justify-content:space-between;align-items:center;padding:14px 0}
+.logo{font-weight:700} .logo span{color:var(--accent)}
+nav ul{list-style:none;display:flex;gap:18px;margin:0;padding:0;font-size:14px}
+.btn{display:inline-block;background:var(--accent);color:#fff;padding:10px 18px;border-radius:10px;font-weight:600}
+.btn.secondary{background:#0f172a}
+.hero{padding:48px 0 28px;display:grid;grid-template-columns:1.2fr .8fr;gap:28px;align-items:center}
+.hero h1{font-size:36px;line-height:1.1;margin:0 0 12px}
+.hero p{color:var(--muted);font-size:17px;margin:0 0 18px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.badge{font-size:12px;border:1px solid var(--line);padding:6px 10px;border-radius:999px;background:#fff}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+.grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+section{padding:28px 0}
+h2{font-size:22px;margin:0 0 14px}
+h3{font-size:16px;margin:0 0 8px}
+.muted{color:var(--muted)}
+.kpi{display:flex;gap:18px;margin-top:14px}
+.kpi div{background:#fff;border:1px solid var(--line);border-radius:12px;padding:12px 16px;text-align:center;flex:1}
+.kpi strong{font-size:20px;display:block}
+.proj{border:1px solid var(--line);border-radius:14px;padding:16px;background:#fff}
+.proj h3{margin:0 0 6px}
+footer{border-top:1px solid var(--line);padding:24px 0;color:var(--muted);font-size:13px;text-align:center}
+@media(max-width:860px){.hero{grid-template-columns:1fr}.grid2,.grid3{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <nav>
+      <div class="logo">i4petvs <span>· SMR</span></div>
+      <ul>
+        <li><a href="#sobre">Sobre mí</a></li>
+        <li><a href="#habilidades">Habilidades</a></li>
+        <li><a href="#proyectos">Proyectos</a></li>
+        <li><a href="#contacto">Contacto</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<div class="wrap">
+  <section class="hero">
+    <div>
+      <h1>Técnico en Sistemas Microinformáticos y Redes</h1>
+      <p>Estudiante de <strong>SMR</strong> con base real en <strong>Linux (Arch)</strong>, redes y soporte. No vendo humo: documento cada máquina que resuelvo en mi laboratorio y lo publico en GitHub.</p>
+      <p>
+        <a class="btn" href="#contacto">Disponible para FCT / Junior →</a>
+        <a class="btn secondary" href="cv.pdf" style="margin-left:8px">Descargar CV</a>
+      </p>
+      <div class="badges">
+        <span class="badge">Arch Linux · BlackArch</span>
+        <span class="badge">TCP/IP · DHCP/DNS</span>
+        <span class="badge">Windows 10/11</span>
+        <span class="badge">VirtualBox / VMware</span>
+        <span class="badge">HelpDesk</span>
+        <span class="badge">Git · GitHub</span>
+      </div>
+      <div class="kpi">
+        <div><strong>5</strong><span class="muted">Máquinas DockerLabs documentadas</span></div>
+        <div><strong>3</strong><span class="muted">Writeups HTB</span></div>
+        <div><strong>100%</strong><span class="muted">Laboratorio propio</span></div>
+      </div>
+    </div>
+    <div class="card">
+      <h3 style="margin-top:0">¿Qué puedo hacer por tu empresa?</h3>
+      <ul style="margin:8px 0 0 18px">
+        <li>Montaje, mantenimiento y diagnóstico de equipos</li>
+        <li>Instalación y configuración de Windows / Linux</li>
+        <li>Redes locales: cableado, WiFi, DHCP, DNS</li>
+        <li>Virtualización y clonación de sistemas</li>
+        <li>Soporte a usuario, ticketing y documentación</li>
+        <li>Backups y buenas prácticas de seguridad</li>
+      </ul>
+      <p class="muted" style="font-size:13px;margin-top:12px">Trabajo con metodología: recon → diagnóstico → solución → documentación.</p>
+    </div>
+  </section>
+
+  <section id="sobre" class="grid2">
+    <div class="card">
+      <h2>Sobre mí</h2>
+      <p>Soy <strong>i4petvs</strong>, estudiante de <strong>Sistemas Microinformáticos y Redes</strong>. Trabajo a diario con <strong>Arch Linux</strong> y mi laboratorio es mi mejor CV: cada reto que completo acaba en un writeup público con metodología, comandos y mitigaciones.</p>
+      <p class="muted">Busco <strong>prácticas FCT</strong> o primer empleo como técnico de sistemas / helpdesk / microinformática. Remoto o presencial en España, incorporación inmediata.</p>
+    </div>
+    <div class="card">
+      <h2>Formación</h2>
+      <p><strong>CFGM Sistemas Microinformáticos y Redes</strong> — En curso</p>
+      <ul class="muted" style="margin:0 0 0 18px">
+        <li>Montaje y mantenimiento de equipos</li>
+        <li>Sistemas operativos monopuesto y en red</li>
+        <li>Redes locales y servicios</li>
+        <li>Aplicaciones ofimáticas y web</li>
+      </ul>
+      <p style="margin-top:12px"><span class="badge">Disponible para FCT</span></p>
+    </div>
+  </section>
+
+  <section id="habilidades">
+    <h2>Habilidades</h2>
+    <div class="grid3">
+      <div class="card"><h3>🖥️ Sistemas</h3><p class="muted">Windows 10/11, Arch/Debian/Ubuntu, Bash, usuarios y permisos, dual-boot</p></div>
+      <div class="card"><h3>🌐 Redes</h3><p class="muted">TCP/IP, DHCP/DNS, LAN/WiFi, Nmap, diagnóstico de conectividad</p></div>
+      <div class="card"><h3>🔧 Hardware</h3><p class="muted">Montaje, diagnóstico, periféricos, clonación de discos</p></div>
+      <div class="card"><h3>📦 Virtualización</h3><p class="muted">VirtualBox, VMware, Docker básico</p></div>
+      <div class="card"><h3>🎧 Soporte</h3><p class="muted">HelpDesk, ticketing, documentación clara, trato con usuario</p></div>
+      <div class="card"><h3>🧰 Herramientas</h3><p class="muted">Git/GitHub, Office/LibreOffice, HTML/CSS básico</p></div>
+    </div>
+  </section>
+
+  <section id="proyectos">
+    <h2>Proyectos y laboratorio</h2>
+    <p class="muted">No tengo años de experiencia laboral, pero sí horas de laboratorio real — todo documentado:</p>
+    <div class="grid2">
+      <div class="proj"><h3>DockerLabs — 5 máquinas</h3><p class="muted">AdminBypass, Hackcar, Hannah's Coffee, Obsesion, Trust. Metodología completa.</p><a href="https://github.com/iapetus12/DockerLabs">Ver en GitHub →</a></div>
+      <div class="proj"><h3>HTB Writeups — Nexus, Support, Cohort</h3><p class="muted">Informes con técnica, CWE y mitigación.</p><a href="https://github.com/iapetus12/htb-writeups">Ver en GitHub →</a></div>
+      <div class="proj"><h3>Pentest Toolkit</h3><p class="muted">Scripts propios de red y web para auditoría en lab autorizado.</p><a href="https://github.com/iapetus12/pentest-toolkit">Ver en GitHub →</a></div>
+      <div class="proj"><h3>Survival Hub</h3><p class="muted">Servidor offline para Raspberry Pi: mapas, wiki, vault, chat local.</p><a href="https://github.com/iapetus12/survival-hub">Ver en GitHub →</a></div>
+    </div>
+  </section>
+
+  <section id="contacto" class="card">
+    <h2>Contacto</h2>
+    <p>¿Buscas técnico junior para soporte, microinformática o helpdesk? Hablemos.</p>
+    <div class="grid2">
+      <div>
+        <p><strong>Email:</strong> <a href="mailto:tu.email@ejemplo.com">tu.email@ejemplo.com</a> <span class="muted">← cámbialo</span></p>
+        <p><strong>GitHub:</strong> <a href="https://github.com/iapetus12">github.com/iapetus12</a></p>
+        <p><strong>LinkedIn:</strong> <a href="#">linkedin.com/in/tu-perfil</a> <span class="muted">← añade tu perfil</span></p>
+      </div>
+      <div>
+        <p><strong>Ubicación:</strong> España — remoto / presencial</p>
+        <p><strong>Disponibilidad:</strong> FCT / Junior — inmediata</p>
+        <p><a class="btn" href="mailto:tu.email@ejemplo.com">Escríbeme</a></p>
+      </div>
+    </div>
+    <p class="muted" style="font-size:12px;margin-top:14px">Sustituye <code>tu.email@ejemplo.com</code> y el LinkedIn en este HTML y en el README, y sube tu CV como <code>docs/cv.pdf</code>.</p>
+  </section>
+
+  <footer>
+    © 2026 i4petvs — Portfolio para SMR / Soporte microinformático. Hecho con HTML simple, sin frameworks.
+  </footer>
+</div>
+</body>
+</html>
