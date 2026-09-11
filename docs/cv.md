@@ -3,7 +3,7 @@
 
 Nombre: i4petvs (cambia por tu nombre real)
 Título: Técnico en Sistemas Microinformáticos y Redes (en formación)
-Ubicación: España | Email: tu.email@ejemplo.com | Tel: +34 6XX XXX XXX
+Ubicación: España | Email: iapetus07@gmail.com | Tel: +34 6XX XXX XXX
 GitHub: github.com/iapetus12 | LinkedIn: linkedin.com/in/tu-perfil | Portfolio: iapetus12.github.io/portfolio
 
 ## Perfil

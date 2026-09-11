@@ -5,7 +5,7 @@
 Soy estudiante de **Sistemas Microinformáticos y Redes**, con base sólida en **Linux (Arch + BlackArch)**, montaje y mantenimiento de equipos, y redes. Aprendo rompiendo y documentando en laboratorio propio — cada máquina que resuelvo acaba en un writeup público.
 
 **Disponibilidad:** Prácticas FCT / Contrato junior — Remoto o presencial (España)
-**Contacto:** GitHub [@iapetus12](https://github.com/iapetus12) · Email: *añade tu email aquí* · LinkedIn: *añade tu enlace*
+**Contacto:** GitHub [@iapetus12](https://github.com/iapetus12) · Email: iapetus07@gmail.com · LinkedIn: *añade tu enlace*
 
 🌐 **Portfolio web:** https://iapetus12.github.io/portfolio/ *(se activa al hacer `git push`)*
 📄 **CV en PDF:** [docs/cv.pdf](docs/cv.pdf) *(plantilla lista para completar)*
@@ -74,8 +74,8 @@ No tengo años de experiencia laboral, pero sí **horas de laboratorio real** do
 ## Contacto
 
 - **GitHub:** [@iapetus12](https://github.com/iapetus12)
-- **Email:** `tu.email@ejemplo.com` ← *cámbialo en este README y en `docs/index.html`*
-- **LinkedIn:** `linkedin.com/in/tu-perfil` ← *añade tu perfil*
+- **Email:** `iapetus07@gmail.com`
+- **LinkedIn:** `linkedin.com/in/tu-perfil` ← *añade tu perfil cuando lo tengas*
 - **Ubicación:** España — remoto / presencial según zona
 
 ¿Buscas técnico junior para soporte, microinformática o helpdesk? **Escríbeme y hablamos.**
